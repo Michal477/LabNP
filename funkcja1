@@ -8,4 +8,5 @@
     printf("Podaj Druga Liczbe:\n");
     scanf("%f", &liczba2);
     wynik = liczba1 * liczba2;
+    printf("%f * %f = %f\n", liczba1, liczba2, wynik);
     }

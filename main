@@ -3,5 +3,12 @@
 
 int main()
 {
+char znak;
+
+while(znak != 'q')
+{
+   
+}
+
 return 0;
 }

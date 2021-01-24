@@ -14,6 +14,18 @@ while(znak != 'q')
     {
        funkcjaA();
     }
+    else if(znak==43)
+    {
+       funkcjaB();
+    }
+    else if (znak==45)
+    {
+       funkcjaC();
+    }
+    else if(znak==47)
+    {
+        funkcjaD();
+    }
 }
 
 return 0;

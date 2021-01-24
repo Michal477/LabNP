@@ -3,4 +3,6 @@
     float liczba1;
     float liczba2;
     float wynik;
+    printf("Podaj Pierwsza liczbe:\n");
+    scanf("%f", &liczba1);
     }

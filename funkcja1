@@ -5,4 +5,6 @@
     float wynik;
     printf("Podaj Pierwsza liczbe:\n");
     scanf("%f", &liczba1);
+    printf("Podaj Druga Liczbe:\n");
+    scanf("%f", &liczba2);
     }

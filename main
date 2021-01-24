@@ -3,5 +3,18 @@
 
 int main()
 {
+char znak;
+
+while(znak != 'q')
+{
+    printf("Podaj Operator: ");
+    scanf("%c", &znak);
+
+    if(znak==42)
+    {
+       funkcjaA();
+    }
+}
+
 return 0;
 }
